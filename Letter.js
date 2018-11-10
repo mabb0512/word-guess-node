@@ -18,4 +18,6 @@ function Letter (letter) {
     }
 }
 
-module.exports = Letter;
+module.exports = {
+    Letter: Letter
+}

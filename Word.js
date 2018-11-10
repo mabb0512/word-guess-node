@@ -36,4 +36,6 @@ function Word (word) {
     }
 }
 
-module.exports = Word;
+module.exports = { 
+    Word: Word
+}
